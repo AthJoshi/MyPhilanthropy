@@ -16,6 +16,8 @@ eliminating logistic hurdles, we aim to inspire a wave of generosity to make a t
 * JavaScript
 * Google Spreadsheets
 * *php*
+* MySql
+
 
 # Tools
 * Github
